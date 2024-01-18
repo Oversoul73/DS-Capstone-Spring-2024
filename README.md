@@ -3,3 +3,5 @@
 Project ideas
 
 mental health care
+
+emotion detection
