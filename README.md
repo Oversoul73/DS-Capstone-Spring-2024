@@ -1,7 +1,2 @@
-# DS-Capstone-Spring-2024 
+# Multimodal Emotion Detection Using Open Source LLMs
 
-Project ideas
-
-mental health care
-
- speech emotion detection
