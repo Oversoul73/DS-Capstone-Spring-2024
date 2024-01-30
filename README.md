@@ -3,7 +3,11 @@
 
 [Power Point Presentation] - (https://docs.google.com/presentation/d/1UoOOKlQWId-QnC3Fcw4eUMsNSvg2EzN78zPmY966Xgk/edit?usp=sharing)
 
-[Word] - 
+[Word] - (https://github.com/Oversoul73/DS-Capstone-Spring-2024/blob/MohithaD/capstone.docx)
+
+MY CONTRIBUTIONS –
+Text Data Contribution: Text data plays a crucial role in capturing verbal cues and linguistic patterns associated with human emotions.
+Semantic Analysis: Textual content provides insights into the semantic meaning and context of the communication, enhancing the overall understanding of emotions.
 
 
 
@@ -12,6 +16,9 @@
 
 
 
+
+
+PROJECT -
 
 Introduction -
 Emotion detection is crucial for human-computer interaction.
