@@ -2,9 +2,12 @@
 
 This repository contains the work done by Hema Nagini Matta, Krishnasai Bharadwaj Atmakuri, Mohammadreza Akbari Lor, Mohitha Lakshmi Dayana.
 
-[Project-Initiation Presentation]: (https://docs.google.com/presentation/d/1UoOOKlQWId-QnC3Fcw4eUMsNSvg2EzN78zPmY966Xgk/edit#slide=id.g2b4849c857a_0_50)
+[Project-Initiation Document]: (https://github.com/Oversoul73/DS-Capstone-Spring-2024/blob/main/Project_Inititation.docx)
+
+[Project-Initiation Presentation]: (https://github.com/Oversoul73/DS-Capstone-Spring-2024/blob/main/Presentation.pdf)
 
 My Contribution:
+
 
 
 
