@@ -5,7 +5,7 @@ In the period of human-computer interaction and full of feeling computing, under
 
 ### [Project Initiation Document] (https://github.com/Oversoul73/DS-Capstone-Spring-2024/blob/krishnasai/Project_Inititation.docx)
 
-### [Powerpoint slide] ([https://docs.google.com/presentation/d/1UoOOKlQWId-QnC3Fcw4eUMsNSvg2EzN78zPmY966Xgk/edit#slide=id.g2b4849c857a_0_93](https://github.com/Oversoul73/DS-Capstone-Spring-2024/blob/krishnasai/Multimodal%20Emotion%20Detection%20System.pptx)
+### [Powerpoint slide] (https://github.com/Oversoul73/DS-Capstone-Spring-2024/blob/krishnasai/Multimodal%20Emotion%20Detection%20System.pptx)
 
 ### My Contributions:
 In this Project, I have searched for some facial detection datasets and researched some of the models to implement like LLaVa.
