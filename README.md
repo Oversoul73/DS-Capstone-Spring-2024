@@ -1,4 +1,4 @@
-# Multi-Modal Emotion Detection System Using Open Source LLMs
+# Multi-Modal Emotion Detection System
 
 This repository contains the work done by Hema Nagini Matta, Krishnasai Bharadwaj Atmakuri, Mohammadreza Akbari Lor, Mohitha Lakshmi Dayana.
 
