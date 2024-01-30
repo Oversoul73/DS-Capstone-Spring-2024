@@ -1,7 +1,3 @@
 # DS-Capstone-Spring-2024 
 
-Project ideas
-
-mental health care
-
-emotion detection
+[View Presentation](./Multimodal Emotion Detection Using Open Source LLMs.pdf)
