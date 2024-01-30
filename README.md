@@ -1,4 +1,18 @@
 # DS-Capstone-Spring-2024
+
+
+[Power Point Presentation] - (https://docs.google.com/presentation/d/1UoOOKlQWId-QnC3Fcw4eUMsNSvg2EzN78zPmY966Xgk/edit?usp=sharing)
+
+[Word] - 
+
+
+
+
+
+
+
+
+
 Introduction -
 Emotion detection is crucial for human-computer interaction.
 Traditional systems face limitations in accuracy and comprehensiveness due to single-modal approaches.
