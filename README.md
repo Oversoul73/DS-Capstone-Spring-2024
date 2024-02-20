@@ -6,3 +6,22 @@ In the period of human-computer interaction and full of feeling computing, under
 ### [Project Initiation Powerpoint slide] (https://github.com/Oversoul73/DS-Capstone-Spring-2024/blob/main/Presentation.pdf)
 
 ### [Project Initiation Document] (https://github.com/Oversoul73/DS-Capstone-Spring-2024/blob/main/Project_Inititation.docx)
+
+## Prerequisites:
+
+1. ### Python 3.11 or later version installed on the manchine.
+
+2. ### MongoDB Atlas/compass account created, and credetnials kept ready.
+
+3. ### VS Code Editor (recommended).
+
+## Installation commnads in VScode Terminal:
+
+1.  ### Install MongoDB Driver:
+           python -m pip install "pymongo[srv]"
+
+2. ###  FastAPI installation :
+           pip install fastapi
+
+3. ###  Uvicorn installation:
+           pip install uvicorn
