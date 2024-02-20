@@ -25,3 +25,12 @@ In the period of human-computer interaction and full of feeling computing, under
 
 3. ###  Uvicorn installation:
            pip install uvicorn
+
+
+## Run commnads in VScode Terminal:
+
+1.  ### Run FastAPI:
+           uvicorn main:app --reload
+
+2. ###  Run Streamlit:
+           streamlit run main.py    
